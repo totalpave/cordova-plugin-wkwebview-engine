@@ -17,6 +17,12 @@
  under the License.
  */
 
+/*
+Modifications:
+    - Added NSNotificationCenters for keyboardWillHide and keyboardWillShow.
+    - Added keyboardDisplacementFix.
+*/
+
 #import "CDVWKWebViewEngine.h"
 #import "CDVWKWebViewUIDelegate.h"
 #import "CDVWKProcessPoolFactory.h"
