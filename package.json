@@ -1,6 +1,9 @@
 {
-  "name": "cordova-plugin-wkwebview-engine",
-  "version": "1.2.1",
+  "name": "@totalpave/cordova-plugin-wkwebview-engine",
+  "version": "1.0.0",
+  "totalpave": {
+      "thirdparty": true
+  },
   "description": "The official Apache Cordova WKWebView Engine Plugin",
   "main": "index.js",
   "repository": {
